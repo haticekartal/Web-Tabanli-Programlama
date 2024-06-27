@@ -1,0 +1,92 @@
+{
+  "kullanicilar": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "2704",
+      "username": "deneme",
+      "password": "deneme"
+    },
+    {
+      "id": "334f",
+      "username": "hatice",
+      "password": "abc123"
+    },
+    {
+      "id": "b525",
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "items": [
+    {
+      "item_name": "Laptop",
+      "rental_price": 30,
+      "listing_date": "2024-06-19",
+      "id": "2"
+    },
+    {
+      "id": "5",
+      "item_name": "Kayak",
+      "rental_price": 30,
+      "listing_date": "2024-06-19"
+    },
+    {
+      "id": "6",
+      "item_name": "Projector",
+      "rental_price": 18,
+      "listing_date": "2024-06-19"
+    },
+    {
+      "id": "7",
+      "item_name": "Tent",
+      "rental_price": 12,
+      "listing_date": "2024-06-19"
+    },
+    {
+      "id": "8",
+      "item_name": "Guitar",
+      "rental_price": 14,
+      "listing_date": "2024-06-19"
+    },
+    {
+      "id": "10",
+      "item_name": "Sewing Machine",
+      "rental_price": 8,
+      "listing_date": "2024-06-19"
+    },
+    {
+      "id": "452c",
+      "item_name": "book",
+      "rental_price": 1,
+      "listing_date": "2024-06-15"
+    },
+    {
+      "id": "da63",
+      "item_name": "gloves",
+      "rental_price": 14,
+      "listing_date": "2024-06-07"
+    },
+    {
+      "id": "4a71",
+      "item_name": "Phone",
+      "rental_price": 15,
+      "listing_date": "2024-05-02"
+    },
+    {
+      "id": "a2a6",
+      "item_name": "Mouse",
+      "rental_price": 5,
+      "listing_date": "2024-06-26"
+    },
+    {
+      "id": "b29f",
+      "item_name": "kalem",
+      "rental_price": 2,
+      "listing_date": "2024-06-08"
+    }
+  ]
+}
